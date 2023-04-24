@@ -1,0 +1,6 @@
+name: SaturnAuth
+version: '${project.version}'
+main: online.saturncraft.saturnauth.SaturnAuth
+load: STARTUP
+authors: [NekoCraftYT]
+description: Auth System of SaturnCraft
